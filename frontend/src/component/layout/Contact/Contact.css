@@ -1,0 +1,16 @@
+.contactContainer {
+  font-size: 40px;
+  font-weight: 700;
+  width: 50vw;
+  margin: 100px auto;
+  
+}
+.contact{
+color: burlywood;
+text-align: center;
+text-decoration: underline;
+margin-bottom: 50px;
+margin-top: 30px;
+display: block;
+}
+
